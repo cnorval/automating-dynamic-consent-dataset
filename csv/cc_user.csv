@@ -1,0 +1,68 @@
+user_id,age_category,gender,education,profile_visibility_setting,number_of_friends
+1,25 - 34,Female,Undergraduate degree,Friends,300
+2,25 - 34,Female,Undergraduate degree,Friends,100
+3,35 - 44,Female,Undergraduate degree,Friends,700
+4,55 - 64,Female,Undergraduate degree,Friends,200
+5,45 - 54,Female,High school,Friends,250
+6,55 - 64,Female,,,100
+7,45 - 54,Male,Other,Friends,250
+8,18 - 24,Female,Undergraduate degree,Friends,200
+9,25 - 34,Female,Undergraduate degree,Friends,0
+10,35 - 44,Female,Undergraduate degree,Friends,200
+11,45 - 54,Female,High school,Friends,600
+12,35 - 44,Female,Other,Friends,500
+13,45 - 54,Female,Other,Friends,200
+14,25 - 34,Female,High school,Friends,450
+15,35 - 44,Female,High school,Friends,550
+16,25 - 34,Female,Undergraduate degree,Friends,250
+17,25 - 34,Female,Undergraduate degree,Friends,250
+18,55 - 64,Female,Other,Friends,100
+19,45 - 54,Female,Other,Friends,200
+20,35 - 44,Female,High school,Friends,250
+21,35 - 44,Female,Undergraduate degree,Friends,300
+22,35 - 44,Female,Other,Friends,
+23,45 - 54,Female,High school,Friends,550
+24,35 - 44,Female,High school,Friends,150
+25,55 - 64,Female,High school,Friends,700
+26,45 - 54,Female,Other,Friends,250
+27,25 - 34,Female,Other,Friends,100
+28,35 - 44,Female,High school,Friends,450
+29,35 - 44,Female,High school,Friends,50
+30,25 - 34,Female,Undergraduate degree,Friends,
+31,35 - 44,Male,High school,Friends,1200
+32,25 - 34,Female,High school,Friends,100
+33,35 - 44,Female,Other,Friends,650
+34,65+,Female,High school,Friends,100
+35,35 - 44,Female,Other,Friends,300
+36,35 - 44,Female,Postgraduate degree,Friends,500
+37,35 - 44,Female,Undergraduate degree,Friends,150
+38,25 - 34,Female,Undergraduate degree,Friends,300
+39,45 - 54,Female,Postgraduate degree,Friends,100
+40,55 - 64,,Postgraduate degree,Friends,0
+41,35 - 44,Female,Postgraduate degree,Friends,250
+42,25 - 34,Female,High school,Friends,300
+43,,Female,,,100
+44,45 - 54,Male,Undergraduate degree,Friends,100
+45,35 - 44,Female,Postgraduate degree,Other,250
+46,55 - 64,Male,High school,Friends,500
+47,65+,Female,Undergraduate degree,Friends,650
+48,35 - 44,Female,Postgraduate degree,Friends,300
+49,55 - 64,Female,High school,Friends,150
+50,55 - 64,Female,Postgraduate degree,Friends,50
+51,25 - 34,Female,Postgraduate degree,Friends,350
+52,35 - 44,Female,Undergraduate degree,Friends,250
+53,35 - 44,Male,High school,Friends,450
+54,35 - 44,Female,Undergraduate degree,Friends,50
+55,35 - 44,Male,Undergraduate degree,Friends,100
+56,25 - 34,Male,Undergraduate degree,Friends,200
+57,45 - 54,Female,Undergraduate degree,Friends,300
+58,55 - 64,Female,High school,Friends,250
+59,18 - 24,Female,Other,Friends,600
+60,25 - 34,Male,Undergraduate degree,Friends,650
+61,25 - 34,Female,,Friends,200
+62,18 - 24,Male,Undergraduate degree,Friends,800
+63,,,,,
+64,25 - 34,Female,Postgraduate degree,Friends,600
+65,18 - 24,Female,Undergraduate degree,Friends,700
+66,45 - 54,Female,Postgraduate degree,Public,100
+67,18 - 24,Female,Postgraduate degree,Friends,800
